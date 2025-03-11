@@ -1,3 +1,6 @@
+// Mansor Amond-Mansaray 3/8/2025, This file defines the Book class. It has private member variables for ISBN, author, title, edition, publisher code, and price. It has a parameterized constructor that takes values for these variables.
+// It has public member functions to get the values of these variables, and to change the price of the book.
+
 #include <iostream>
 #include <iomanip>
 #include "BookDef.cpp"
