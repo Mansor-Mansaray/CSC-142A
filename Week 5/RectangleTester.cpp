@@ -1,3 +1,6 @@
+// Mansor Amond-Mansaray 3/8/2025, This file defines the Rectangle class. It has two private member variables, length and width, and public member functions to set and get the values of these variables, and to calculate the area of the rectangle.
+
+
 #include <iostream>
 #include <iomanip>
 #include "RectangleDefinitions.cpp"
